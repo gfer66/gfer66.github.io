@@ -1,0 +1,48 @@
+html {
+    background-color: #F5EFFF;
+}
+h1 {
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+h2 {
+    font-size: 2em;
+    margin-top: 0px;
+} 
+.header {
+    background-color: #A294F9;
+    text-align: center;
+    padding: 20px;
+    font-family: "Inter";
+    margin: 0;
+    border-radius: 5px;
+    max-height: 260px;
+}
+.header-foto {
+    height: 150px;
+    border-radius: 50%;
+}
+.barra-links {
+    font-family: "Inter";
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    padding: 20px
+}
+.barra-links button {
+    background-color: #CDC1FF;
+    padding: 6px;
+    border: none;
+    gap: 10%;
+    border-radius: 10%;
+}
+footer {
+    padding: 5px;
+    background-color: #A294F9; 
+    color: white;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+}

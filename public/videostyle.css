@@ -1,3 +1,13 @@
+html {
+    background-color: #F5EFFF;
+}
+.video {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
 .videochasco {
+    flex: 1;
     text-align: center;
+    width: 30%;
 }

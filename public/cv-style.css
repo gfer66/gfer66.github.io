@@ -4,11 +4,41 @@ html {
 body {
     margin: 0px;
 }
-.cabecera {
-    margin-bottom: 20px;
-    padding-bottom: 10;
-    background-color: #A294F9; 
-    color: white;
+h1 {
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+h2 {
+    font-size: 2em;
+    margin-top: 0px;
+} 
+.header {
+    background-color: #A294F9;
+    text-align: center;
+    padding: 20px;
+    font-family: "Inter";
+    margin: 0;
+    border-radius: 5px;
+    max-height: 260px;
+}
+.header-foto {
+    height: 150px;
+    border-radius: 50%;
+}
+.barra-links {
+    font-family: "Inter";
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    padding: 20px
+}
+.barra-links button {
+    background-color: #CDC1FF;
+    padding: 6px;
+    border: none;
+    gap: 10%;
+    border-radius: 10%;
 }
 .resumen {
     margin: 8px;
@@ -25,19 +55,6 @@ body {
 .tareas {
     font-size: 17px;
 }
-h1 {
-    font-family:"Arial";
-    text-align: left;
-    margin-left: 8px;
-    line-height: 0.2em;
-}
-
-h2 {
-    font-family: "Arial";
-    text-align: left;
-    margin-left: 8px;
-}
-
 h3 {
     font-family: "Arial";
 }

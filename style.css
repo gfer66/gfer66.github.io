@@ -67,8 +67,22 @@ footer {
     text-align: center;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 390px) {
     .trabajos {
         flex-direction: column;
+    }
+    h1 {
+        font-size: 1em;
+    }
+    h2 {
+        font-size: 1em;
+    }
+    .header-foto {
+        height: 75px;
+    }
+    .barra-links {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
     }
 }

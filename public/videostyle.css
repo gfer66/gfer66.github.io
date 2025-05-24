@@ -79,7 +79,7 @@ footer {
         align-items: flex-end;
     }
     .videochasco > iframe {
-        max-width: 360px;
+        max-width: 320px;
     }
     .footer {
         margin: 0;

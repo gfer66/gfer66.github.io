@@ -52,7 +52,7 @@ footer {
     position: fixed;
     text-align: center;
 }
-@media (max-width: 390px) {
+@media (max-width: 430px) {
     .trabajos {
         flex-direction: column;
     }
@@ -77,3 +77,4 @@ footer {
         margin: 0;
         flex-shrink: 0;
     }
+}

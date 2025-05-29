@@ -1,0 +1,23 @@
+{
+  "name": "gfer66.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css css/custom.css --content index.html --output css/reducido.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfer66/gfer66.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfer66/gfer66.github.io/issues"
+  },
+  "homepage": "https://github.com/gfer66/gfer66.github.io#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  }
+}

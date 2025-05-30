@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body {
   height: 100vh;
+  background-color: #F5EFFF;
 }
 
 .icon-square {

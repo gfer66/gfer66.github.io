@@ -16,8 +16,8 @@
     "url": "https://github.com/gfer66/gfer66.github.io/issues"
   },
   "homepage": "https://github.com/gfer66/gfer66.github.io#readme",
-  "description": "",
   "dependencies": {
     "bootstrap": "^5.3.6"
-  }
+  },
+  "description": ""
 }

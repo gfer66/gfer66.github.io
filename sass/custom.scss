@@ -1,6 +1,5 @@
 body {
   height: 100vh;
-  background-color: #F5EFFF;
 }
 
 .icon-square {
@@ -33,5 +32,6 @@ h2 {
 $secondary: #cdc1ff;
 $dark: #A294F9;
 $danger: #52357B;
+$warning:#F5EFFF;
 
 @import "../node_modules/bootstrap/scss/bootstrap";
